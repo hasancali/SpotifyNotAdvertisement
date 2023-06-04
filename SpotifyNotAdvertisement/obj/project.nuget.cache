@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "riow3hhgDhMv3pH9tPKEzZQlbOm4om0DVK/MndSxPFxMzg66N3ARu3QpkMsgWKM4aplDNk4cb5kQ1aYACyHNPw==",
+  "success": true,
+  "projectFilePath": "D:\\Projeler\\SpotifyNotAdvertisement\\SpotifyNotAdvertisement\\SpotifyNotAdvertisement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasan.cali\\.nuget\\packages\\spectre.console\\0.47.1-preview.0.5\\spectre.console.0.47.1-preview.0.5.nupkg.sha512",
+    "C:\\Users\\hasan.cali\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\bin\Debug\net7.0\SpotifyNotAdvertisement.exe
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\bin\Debug\net7.0\SpotifyNotAdvertisement.deps.json
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\bin\Debug\net7.0\SpotifyNotAdvertisement.runtimeconfig.json
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\bin\Debug\net7.0\SpotifyNotAdvertisement.dll
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\bin\Debug\net7.0\SpotifyNotAdvertisement.pdb
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\bin\Debug\net7.0\Spectre.Console.dll
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\obj\Debug\net7.0\SpotifyNotAdvertisement.csproj.AssemblyReference.cache
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\obj\Debug\net7.0\SpotifyNotAdvertisement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\obj\Debug\net7.0\SpotifyNotAdvertisement.AssemblyInfoInputs.cache
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\obj\Debug\net7.0\SpotifyNotAdvertisement.AssemblyInfo.cs
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\obj\Debug\net7.0\SpotifyNotAdvertisement.csproj.CoreCompileInputs.cache
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\obj\Debug\net7.0\SpotifyNotAdvertisement.csproj.CopyComplete
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\obj\Debug\net7.0\SpotifyNotAdvertisement.dll
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\obj\Debug\net7.0\refint\SpotifyNotAdvertisement.dll
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\obj\Debug\net7.0\SpotifyNotAdvertisement.pdb
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\obj\Debug\net7.0\SpotifyNotAdvertisement.genruntimeconfig.cache
+D:\Projeler\SpotifyNotAdvertisement\SpotifyNotAdvertisement\obj\Debug\net7.0\ref\SpotifyNotAdvertisement.dll
